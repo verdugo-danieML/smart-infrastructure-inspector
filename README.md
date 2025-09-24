@@ -133,15 +133,7 @@ Our framework synergistically combines three state-of-the-art foundation models:
 
 ### Active Learning Pipeline
 
-```mermaid
-graph LR
-    A[Initial Dataset<br/>100 images] --> B[Train Models]
-    B --> C[Uncertainty<br/>Sampling]
-    C --> D[Expert<br/>Annotation]
-    D --> E[Expand Dataset]
-    E --> B
-    B --> F[Final Model<br/>72% mIoU]
-```
+![Active Learning Pipeline](./assets/AL_workflow.jpg)
 
 ## 📊 Performance Results
 
