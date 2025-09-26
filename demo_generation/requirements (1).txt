@@ -1,0 +1,10 @@
+numpy<2
+torch==2.2.2
+torchvision==0.17.2
+diffusers==0.30.3
+transformers==4.40.0
+accelerate==0.29.3
+peft==0.10.0
+safetensors>=0.4.2
+gradio==5.47.0
+pillow>=10.0.0
