@@ -2,7 +2,8 @@
 ### Advanced Crack Detection Framework using Foundation Models Integration
 
 [![Paper](https://img.shields.io/badge/📄-Paper_(Under_Review)-blue)](https://drive.google.com/file/d/1-wbn4BUKsbLLQe9Rw_4Rgh3M9gt6z2AN/view?usp=sharing)
-[![Demo](https://img.shields.io/badge/🤗-Live_Demo-yellow)](link-to-huggingface)
+[![Demo](https://img.shields.io/badge/🤗-Live_Demo_Segmentation-yellow)](link-to-huggingface)
+[![Demo](https://img.shields.io/badge/🤗-Live_Demo_Generation-yellow)](https://huggingface.co/spaces/danie94-lml/crack-generation-sdxl)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1+-red)](https://pytorch.org/)
@@ -23,9 +24,10 @@
 
 ## 📺 Demo
 
-Try our live demo on Hugging Face Spaces: [**Launch Demo →**](link-to-demo)
+Try our live demos on Hugging Face Spaces: 
 
-![Demo Preview](assets/demo_preview.gif)
+![Demo Preview_cracks](assets/Demo_sdxl_cracks.gif)
+[**Launch Demo →**](https://huggingface.co/spaces/danie94-lml/crack-generation-sdxl)
 
 ## 🚀 Quick Start
 
