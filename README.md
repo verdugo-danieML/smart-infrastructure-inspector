@@ -73,39 +73,13 @@ smart-infrastructure-inspector/
 │   ├── sample_images/        # Example images for testing
 │   └── dataset_info.md        # Dataset documentation
 │
-├── 🧠 models/
-│   ├── sam2/                  # SAM2 integration
-│   ├── florence2/             # Florence2 detection
-│   └── sdxl/                  # SDXL enhancement
-│
-├── 🔧 src/
-│   ├── crack_detector.py      # Main detection pipeline
-│   ├── active_learning.py     # Active learning module
-│   ├── data_augmentation.py   # Synthetic data generation
-│   └── utils/                 # Helper functions
-│
-├── 📓 notebooks/
-│   ├── 01_data_preparation.ipynb
-│   ├── 02_model_training.ipynb
-│   ├── 03_evaluation.ipynb
-│   └── 04_demo_walkthrough.ipynb
-│
-├── 🎮 demo/
+├── 🎮 demo_segmentation/
 │   ├── app.py                 # Gradio demo application
 │   └── requirements.txt       # Demo dependencies
 │
-├── 📈 results/
-│   ├── performance_metrics.md
-│   ├── ablation_studies/
-│   └── visualizations/
-│
-├── 📚 docs/
-│   ├── ARCHITECTURE.md        # System architecture
-│   ├── TRAINING.md            # Training guide
-│   └── API.md                 # API documentation
-│
-├── 🧪 tests/
-│   └── test_detection.py
+├── 📚 demo_generation/
+│   ├── app.py                 # Gradio demo application
+│   └── requirements.txt       # Demo dependencies
 │
 ├── requirements.txt
 ├── LICENSE
