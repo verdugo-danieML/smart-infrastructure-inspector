@@ -98,6 +98,11 @@ Our framework synergistically combines three state-of-the-art foundation models:
 | Dice | 77.2% | 84.1% | +6.9% |
 | Boundary F1 | 68.1% | 75.3% | +7.2% |
 
+## 💾 Model Weights & Datasets
+Both the fine-tuned model weights for SAM2 and Florence2, as well as the complete training datasets used in this research, will be made available to the community.
+
+These resources will be released upon request once our scientific paper is accepted for publication.
+
 ## 🎓 Citation
 
 If you use this work in your research, please cite:
