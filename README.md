@@ -32,40 +32,6 @@ Try our live demos on Hugging Face Spaces:
 ![Demo Preview_cracks](assets/Demo_dlorence_sam__cracks.gif)
 [**Launch Demo →**](https://huggingface.co/spaces/danie94-lml/Cracks-Segmenter-Sam2-Florence2)
 
-## 🚀 Quick Start
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/smart-infrastructure-inspector.git
-cd smart-infrastructure-inspector
-
-# Create conda environment
-conda create -n crack-detection python=3.9
-conda activate crack-detection
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Basic Usage
-
-```python
-from crack_detector import SmartInfrastructureInspector
-
-# Initialize the framework
-inspector = SmartInfrastructureInspector(
-    device='cuda',
-    models_path='./checkpoints'
-)
-
-# Detect cracks in an image
-results = inspector.detect('path/to/image.jpg')
-
-# Visualize results
-inspector.visualize_results(results, save_path='output.jpg')
-```
 
 ## 📁 Repository Structure
 
